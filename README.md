@@ -21,13 +21,13 @@ para o frontend.
 O backend de sua aplicação consistirá nas seguintes rotas:
 
 ```
-GET /repos: listagem dos repositórios favoritos salvos em memória
+GET /users: listagem dos usuários favoritos salvos em memória
 
-POST /repos: adicionar um repositório à lista de favoritos (username, nome, avatar e url)
+POST /users: adicionar um usuário à lista de favoritos (username, nome, avatar e url)
 
-DELETE /repos/{username}: remover um repositório da lista de favoritos
+DELETE /users/{username}: remover um usuário da lista de favoritos
 
-PATCH /repos/{username}/star: marca um repositório da lista de favoritos com uma estrela
+PATCH /users/{username}/star: marca um usuário da lista de favoritos com uma estrela
 
 ```
 
