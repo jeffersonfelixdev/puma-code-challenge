@@ -33,11 +33,12 @@ PATCH /repos/{username}/star: marca um repositório da lista de favoritos com um
 
 Regras de negócio:
 
-- O usuário poderá adicionar o máximo de 5 repositórios favoritos;
-- Somente 1 repositório pode ser marcado com uma estrela. Se o usuário tentar
-  marcar um segundo repositório com uma estrela, o repositório anteriormente marcado
+- O utilizador poderá adicionar o máximo de 5 usuários favoritos;
+- O utilizador não poderá adicionar um usuário que já foi adicionado na lista;
+- Somente 1 usuário pode ser marcado com uma estrela. Se o utilizador tentar
+  marcar um segundo usuário com uma estrela, o usuário anteriormente marcado
   deixará de ter a estrela;
-- O usuário poderá ordenar a lista de repositórios em ordem alfabética de nome.
+- O utilizador poderá ordenar a lista de usuários em ordem alfabética de nome.
 
 ## Frontend
 
@@ -46,7 +47,7 @@ digitar o username do GitHub que deseja adicionar à lista de favoritos.
 
 Ao clicar no botão adicionar, o usuário do GitHub escolhido deverá ser
 adicionado à lista, que consistirá de cards contendo foto, nome do usuário e
-username.
+username. O cardo deverá ter um link para a página do usuário no github.
 
 Para cada usuário adicionado deverá existir um botão de excluir, e outro botão
 de estrela.
