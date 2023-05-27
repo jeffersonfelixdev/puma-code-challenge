@@ -8,8 +8,9 @@ de usuários favoritos do GitHub.
 Para isso, deverá ser utilizada a API oficial do GitHub (https://api.github.com)
 cuja documentação se encontra em https://docs.github.com/pt/rest
 
-A aplicação consistirá em um backend, que será responsável pelas requisições à
-API do GitHub e persistência dos dados em memória.
+A aplicação consistirá em um **backend**, que será responsável pelas requisições à
+API do GitHub e persistência dos dados em memória, e um **frontend** para exibição e 
+gerenciamento da lista de favoritos.
 
 A linguagem de programação deverá ser Javascript. Utilize Node.js e um
 framework como Express.js ou Fastify para o backend, e React, Angular ou Vue.js
