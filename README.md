@@ -27,7 +27,7 @@ GET /users: listagem dos usuários favoritos salvos em memória
 
 DELETE /users/{username}: remover um usuário da lista de favoritos
 
-PATCH /users/{username}/star: marca um usuário da lista de favoritos com uma estrela
+PATCH /users/{username}/toggle-star: marca/desmarca um usuário da lista de favoritos com uma estrela - essa rota deverá funcionar como uma chave (toggle), alternando entre liga/desliga a estrela do usuário
 
 ```
 
