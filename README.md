@@ -45,11 +45,12 @@ Regras de negócio:
 ## Frontend
 
 A aplicação web consistirá de uma entrada de texto onde o utilizador deverá
-digitar o username do GitHub que deseja adicionar à lista de favoritos.
+digitar o username do GitHub que deseja adicionar à lista de favoritos, um botão 
+de adicionar e um grid contendo os cards dos usuários favoritos adicionados.
 
 Ao clicar no botão adicionar, o usuário do GitHub escolhido deverá ser
 adicionado à lista, que consistirá de cards contendo foto, nome do usuário e
-username. O cardo deverá ter um link para a página do usuário no github.
+username. O card deverá ter um link para a página do usuário no github.
 
 Para cada usuário adicionado deverá existir um botão de excluir, e outro botão
 de estrela.
