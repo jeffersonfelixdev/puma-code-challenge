@@ -23,7 +23,7 @@ O backend de sua aplicação consistirá nas seguintes rotas:
 ```
 GET /repos: listagem dos repositórios favoritos salvos em memória
 
-POST /repos: adicionar um repositório à lista de favoritos
+POST /repos: adicionar um repositório à lista de favoritos (username, nome, avatar e url)
 
 DELETE /repos/{username}: remover um repositório da lista de favoritos
 
