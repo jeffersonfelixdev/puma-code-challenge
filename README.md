@@ -67,5 +67,15 @@ Acrescentar um botão para ordenar a lista em ordem alfabética de nome.
 - Crie um arquivo README.md contendo uma explicação resumida de como implementou
   sua aplicação, quais frameworks utilizou, bem como instruções de como executar
   sua aplicação.
+  
+## Critérios de avaliação
+
+Será avaliado do candidato:
+- A capacidade de interpretação das regras de negócio e a resolução lógica do problema
+apresentado;
+- A clareza e organização do código;
+- O conhecimento nos frameworks escolhidos para o desenvolvimento;
+- A utilização de testes unitários automatizados.
+
 
 Boa sorte!
