@@ -21,9 +21,9 @@ para o frontend.
 O backend de sua aplicação consistirá nas seguintes rotas:
 
 ```
-GET /users: listagem dos usuários favoritos salvos em memória
-
 POST /users: adicionar um usuário à lista de favoritos (username, nome, avatar e url)
+
+GET /users: listagem dos usuários favoritos salvos em memória
 
 DELETE /users/{username}: remover um usuário da lista de favoritos
 
