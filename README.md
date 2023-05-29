@@ -88,6 +88,7 @@ Será avaliado do candidato:
 apresentado;
 - A clareza e organização do código;
 - O conhecimento nos frameworks escolhidos para o desenvolvimento;
+- Conhecimento básico em git e versionamento de código;
 - A utilização de testes unitários automatizados.
 
 
