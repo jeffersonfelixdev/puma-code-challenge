@@ -78,8 +78,8 @@ Para entregar o código, o candidato deverá subir em um repositório público e
 do GitHub (caso não tenha uma conta, crie uma em https://github.com/signup) e enviar o
 link do repositório para #####@######.
 
-O prazo de entrega é de **24 horas contado a partir da entrevista**. Caso não seja entregue
-no prazo, estará automaticamente eliminado do processo seletivo.
+O prazo de entrega é de **24 horas, contadas a partir do término da entrevista técnica**. 
+Caso não seja entregue no prazo, estará automaticamente eliminado do processo seletivo.
 
 ## Critérios de avaliação
 
