@@ -79,6 +79,9 @@ do GitHub (caso não tenha uma conta, crie uma em https://github.com/signup) e e
 link do repositório para <strong><a href="mailto:pumaprojeto@gmail.com">pumaprojeto@gmail.com</a></strong>,
 com o assunto "Entrega do desafio - SEU NOME COMPLETO".
 
+Tanto o backend quanto o frontend devem ser entregues no mesmo repositório, devendo cada
+ambiente estar em pastas separadas, nomeadas `backend` e `frontend`.
+
 O prazo de entrega é de **24 horas, contadas a partir do término da entrevista técnica**. 
 Caso não seja entregue no prazo, estará automaticamente eliminado do processo seletivo.
 
