@@ -76,7 +76,8 @@ Acrescentar um botão para ordenar a lista em ordem alfabética de nome.
 
 Para entregar o código, o candidato deverá subir em um repositório público em sua conta
 do GitHub (caso não tenha uma conta, crie uma em https://github.com/signup) e enviar o
-link do repositório para #####@######, com o assunto "Entrega do desafio - SEU NOME COMPLETO".
+link do repositório para <strong><a href="mailto:pumaprojeto@gmail.com">pumaprojeto@gmail.com</a></strong>,
+com o assunto "Entrega do desafio - SEU NOME COMPLETO".
 
 O prazo de entrega é de **24 horas, contadas a partir do término da entrevista técnica**. 
 Caso não seja entregue no prazo, estará automaticamente eliminado do processo seletivo.
